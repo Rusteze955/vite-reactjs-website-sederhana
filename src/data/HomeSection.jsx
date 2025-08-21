@@ -3,10 +3,9 @@ export const homeSection = {
     "https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?size=626&ext=jpg&ga=GA1.2.1769275626.1605867161",
 
   content: `<p className="deskripsi">Belajar Programming #dirumahaja</p>
-            <h2>Tetap Sehat, Tetap Semangat</h2>
+            <h2>Yuk!! Upgrade skill kamu sekarang juga, hanya di Abdullah Course!!</h2>
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              Nesciunt, nobis.
+              Tingkatkan AI, karier, dan skill hidup Anda dengan pembelajaran terkini yang dipandu oleh para ahli..
             </p>
             <p>
               <a href="" className="tbl-pink">

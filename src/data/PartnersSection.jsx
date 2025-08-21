@@ -2,9 +2,7 @@ export const partnersSection = {
   content: `<p className="deskripsi">Our Top Partners</p>
               <h2>Partners</h2>
               <p>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi
-                magni tempore expedita sequi. Similique rerum doloremque impedit
-                saepe atque maxime.
+                Kami percaya bahwa kolaborasi adalah kunci untuk menciptakan pembelajaran yang berkualitas. Oleh karena itu, kami bekerja sama dengan berbagai perusahaan, lembaga pendidikan, dan komunitas untuk menghadirkan materi yang relevan dengan kebutuhan industri.
               </p>`,
 };
 

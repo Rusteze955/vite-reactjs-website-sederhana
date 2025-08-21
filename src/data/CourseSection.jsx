@@ -1,16 +1,20 @@
 export const courseSection = {
   content: `<p className="deskripsi">You Will Need This</p>
             <h2>Online Courses</h2>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed
-              deserunt voluptatibus possimus blanditiis reiciendis. Qui,
-              facilis! Delectus exercitationem dolores sapiente?
-            </p>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed
-              deserunt voluptatibus possimus blanditiis reiciendis. Qui,
-              facilis! Delectus exercitationem dolores sapiente?
-            </p>
+            <ul>
+                <li>
+                    <p>Web Development Dasar → Belajar HTML, CSS, dan JavaScript dari nol hingga bisa membuat website sendiri.</p>
+                </li>
+                <li>
+                    <p>JavaScript Lanjutan → Kuasai DOM, ES6+, dan konsep modern JavaScript untuk jadi developer handal.</p>
+                </li>
+                <li>
+                    <p>UI/UX Design → Pelajari cara membuat tampilan yang menarik sekaligus mudah digunakan.</p>
+                </li>
+                <li>
+                    <p>React.js untuk Pemula → Bangun aplikasi web modern dengan framework paling populer.</p>
+                </li>
+            </ul>
             <p>
               <a href="" className="tbl-biru">
                 Pelajari Lebih Lanjut

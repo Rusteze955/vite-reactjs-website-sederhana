@@ -1,27 +1,24 @@
 export const contactSection = [
   {
-    content: `<h3>RumahRafif.</h3>
+    content: `<h3>Abdullah Faqih.</h3>
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint,
-              culpa!
+              Full Satck Developer
             </p>`,
   },
   {
     content: `<h3>About</h3>
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint,
-              culpa!
+              Abdullah Course di bentuk tujuannya untuk teman-teman yang ingin upgrade skill atau switch carier untuk mendajdi seorang Full Stack Develover 
             </p>`,
   },
   {
     content: `<h3>Contact</h3>
-            <p>Jl. Laksda Adisucipto Sleman Yogyakarta</p>
-            <p>Kode Pos: 57365</p>`,
+            <p>Grogol Petamburan, Jakarta Barat</p>`,
   },
   {
     content: `<h3>Social Media</h3>
             <p>
-              <b>YouTube: </b>Programming di RumahRafif
+              <b>Github: </b>https://github.com/Rusteze955/
             </p>`,
   },
 ];
